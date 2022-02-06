@@ -1,0 +1,31 @@
+
+.site-slider .slider-caption .title {
+    width: 500px;
+    margin: 0 auto;
+    border: 4px solid #fff;
+    padding: 40px 40px 20px 40px;
+    text-align: center;
+}
+.site-slider .slider-caption .title h2 {
+    margin: 0 0 20px 0;
+    font-size: 40px;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.first-section p {
+    font-size: 16px;
+}
+
+.third-section p {
+    font-size: 16px;
+}
+
+.third-section img {
+    height: 300px;
+}
+
+.third-section {
+    margin-top: -70px;
+}
